@@ -4,6 +4,11 @@
 
 * [Vuetify 官网](https://vuetifyjs.com/zh-Hans/)
 * 加入 vuetify@2.2.4
+* 加入 scss 变量，在 src 下创建文件 scss/variables.scss 
+* 单元测试有问题，待处理
+* 启动服务耗时太长，待优化
+* 打包的时候，css 没有按需打包，待优化
+* vuetify 例子，待补充
 
 ## v0.1.0 开启 vue-weus 之旅 (2020-1-18)
 
