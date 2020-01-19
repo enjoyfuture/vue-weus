@@ -3,7 +3,7 @@ module.exports = {
   env: {
     node: true
   },
-  'extends': [
+  extends: [
     'plugin:vue/essential',
     '@vue/standard',
     '@vue/typescript'
@@ -18,11 +18,10 @@ module.exports = {
   overrides: [
     {
       files: [
-        '**/__tests__/*.{j,t}s?(x)',
         '**/tests/unit/**/*.spec.{j,t}s?(x)'
       ],
       env: {
-        jest: true
+        mocha: true
       }
     }
   ]
