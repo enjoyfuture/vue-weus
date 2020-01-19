@@ -1,5 +1,17 @@
 # vue-weus 更新日志
 
+## v0.3.0 Vue SSR (2020-1-19)
+
+* 需要的依赖有
+  ```
+  vue-server-renderer
+  express
+  ```
+* [Vue SSR 指南](https://ssr.vuejs.org/zh/)
+* [根据官网例子一步步实现vueSSR](https://blog.csdn.net/qq_31126175/article/details/95356102)  
+* [vue ssr 搭建系列文章](https://juejin.im/user/5ced2ac25188254c57269baa/posts)
+
+
 ## v0.2.0 加入 Vuetify (2020-1-19)
 
 * [Vuetify 官网](https://vuetifyjs.com/zh-Hans/)
