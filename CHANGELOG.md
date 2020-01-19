@@ -13,4 +13,4 @@
 创建 app
 ![创建 app](docs/assets/create-app.png)
 创建 app 配置项
-![创建 app 配置项](docs/assets/create-app.png)
+![创建 app 配置项](docs/assets/create-app-config.png)
