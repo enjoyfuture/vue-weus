@@ -1,7 +1,17 @@
 {
   "name": "vue-weus",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "wangyanjun",
+    "email": "linder0209@126.com"
+  },
+  "description": "vue 基础脚手架",
+  "keywords": [
+    "vue",
+    "vue-router",
+    "vuex",
+    "vuetify"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -44,5 +54,17 @@
     "sass-loader": "^8.0.0",
     "typescript": "^3.7.5",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:enjoyfuture/vue-weus.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/enjoyfuture/vue-weus/issues"
+  },
+  "homepage": "https://github.com/enjoyfuture/vue-weus#readme"
 }
