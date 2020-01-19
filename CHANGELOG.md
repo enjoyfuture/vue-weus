@@ -1,5 +1,10 @@
 # vue-weus 更新日志
 
+## v0.2.0 加入 Vuetify (2020-1-19)
+
+* [Vuetify 官网](https://vuetifyjs.com/zh-Hans/)
+* 加入 vuetify@2.2.4
+
 ## v0.1.0 开启 vue-weus 之旅 (2020-1-18)
 
 * 利用 @vue/cli 4.1.2 搭建基于 vue vue-router vuex 项目框架，命令为 ```vue create vue-weus```
